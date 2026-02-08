@@ -31,6 +31,14 @@ This project addresses these challenges through a systematic ML workflow and eva
 │   └── skin cancer data_transformed_2_classes.csv
 │
 ├── skin-cancer-ml-risk-prediction.ipynb
+│
+├── feature_scaler.pkl
+├── features_to_scale.pkl
+├── selected_features.pkl
+├── stacking_base_models.pkl
+├── stacking_meta_learner.pkl
+├── xgboost_screener_model.pkl
+│
 └── README.md
 ````
 
