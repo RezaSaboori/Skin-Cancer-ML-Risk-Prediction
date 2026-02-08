@@ -1,4 +1,4 @@
-# Skin-Cancer-ML-Risk-Prediction
+# Skin Cancer ML Risk Prediction
 
 An end-to-end machine learning project for **skin cancer classification** based on structured clinical data.  
 The project performs detailed data analysis, preprocessing, class imbalance correction, and model comparison, with **XGBoost emerging as the best-performing model**.
