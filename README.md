@@ -24,9 +24,14 @@ This project addresses these challenges through a systematic ML workflow and eva
 ```text
 .
 ├── Data/
+│   └── skin cancer data.xlsx
+│   └── skin cancer data_transformed.xlsx
+│   └── skin cancer data_transformed.csv
+│   └── skin cancer data_transformed_2_classes.xlsx
 │   └── skin cancer data_transformed_2_classes.csv
+│
 ├── skin-cancer-ml-risk-prediction.ipynb
-├── README.md
+└── README.md
 ````
 
 The dataset is already transformed into **binary classes** and is ready for direct modeling.
